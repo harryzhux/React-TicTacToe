@@ -1,7 +1,8 @@
 {
-  "name": "tic-tac-toe",
+  "name": "TicTacToe-ReactJS",
   "version": "0.1.0",
-  "private": true,
+  "description": "React.js tutorial project",
+  "anthor": "Harry Zhu <harryzhux@gmail.com> (http://github.com/harryzhux)",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
