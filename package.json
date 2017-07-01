@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "description": "React.js tutorial project",
   "anthor": "Harry Zhu <harryzhux@gmail.com> (http://github.com/harryzhux)",
+  "license": "",
+  "repository": "http://github.com/harryzhux/TicTacToe-ReactJS",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
