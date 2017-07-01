@@ -7,7 +7,7 @@ class ReactLogo extends Component {
     return (
       <div className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2>Flip-Match Card game with React</h2>
+        <h2>Tic-Tac-Toe board game with React</h2>
       </div>
     );
   }
