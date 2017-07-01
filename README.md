@@ -1,7 +1,7 @@
 # TicTacToe-ReactJS
 Tic-tac-toe implemented in ReactJS
 
-React Tutorial project 
+React Tutorial project
 
 How to run:
   % npm install
