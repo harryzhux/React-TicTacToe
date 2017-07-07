@@ -1,13 +1,17 @@
 import React, { Component } from 'react';
-import logo from './HarryQRCode.jpg';
+import logo from './logo.svg';
+import qrimg from './HarryQRCode.jpg';
 import './ReactLogo.css';
 
 class ReactLogo extends Component {
   render() {
     return (
       <div className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h2>Tic-Tac-Toe board game with React</h2>
+	<h2>
+          <img src={logo} className="App-logo" alt="logo" />
+          Tic-Tac-Toe board game with React
+          <img src={qrimg} className="App-QR" alt="QR" />
+	</h2>
       </div>
     );
   }
