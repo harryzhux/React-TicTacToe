@@ -1,7 +1,7 @@
 {
   "name": "TicTacToe-ReactJS",
   "version": "0.1.0",
-  "description": "React.js tutorial project",
+  "description": "React.js tutorial project to construct the tic-tac-toe board game",
   "anthor": "Harry Zhu <harryzhux@gmail.com> (http://github.com/harryzhux)",
   "license": "MIT",
   "repository": "https://github.com/harryzhux/TicTacToe-ReactJS",
